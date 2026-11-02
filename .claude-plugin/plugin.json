@@ -1,0 +1,8 @@
+{
+  "name": "viral-agent",
+  "description": "Five Claude skills that make faceless reels: find outlier reels in your niche, write the script, animate it in code, add voice, captions and sound, and check the hook before you post.",
+  "version": "1.0.0",
+  "author": { "name": "hadibuilds.ai" },
+  "license": "MIT",
+  "keywords": ["reels", "instagram", "faceless", "animation", "malayalam", "content"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "viral-agent",
+  "description": "Free Claude skills for making faceless reels.",
+  "owner": { "name": "hadibuilds.ai" },
+  "plugins": [
+    {
+      "name": "viral-agent",
+      "source": "./",
+      "description": "Five Claude skills that make faceless reels: find outlier reels in your niche, write the script, animate it in code, add voice, captions and sound, and check the hook before you post."
+    }
+  ]
+}
